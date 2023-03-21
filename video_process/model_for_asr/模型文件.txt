@@ -1,0 +1,1 @@
+WeNet的checkpoint模型即可
